@@ -1,0 +1,418 @@
+a:hover{ 
+    text-decoration: none;
+    color: inherit;
+}
+
+a{
+    color: inherit;
+    text-decoration: none;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    gap: 50px;
+}
+
+.logo{
+    width: 80px;
+}
+
+.text{
+    font-size: 25px;
+    gap: 40px;
+    display: flex;
+    color: black;
+}
+
+.osnova{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+}
+
+.block{
+    display: flex;
+    flex-direction: column;
+    padding: 100px;
+    align-items: center;
+    background-color: white;
+    width: 920px;
+    height: 530px;
+}
+
+.logo_1{
+    border-radius: 40px;
+    width: 910px;
+    position: relative;
+}
+
+.text_k{
+    color: white;
+    position: relative;
+    bottom: 680px;
+    font-size: 180px;
+}
+
+.text_k1{
+    color: white;
+    position: relative;
+    bottom: 690px;
+    right: 240px;
+    font-size: 30px;
+}
+
+.block1{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 940px;
+    height: 100%;
+}
+
+.text1{
+    font-size: 50px;
+    margin-left: 10px;
+}
+
+.polyblocki{
+    display: flex;
+    padding: 10px;
+    gap: 10px;
+    border-radius: 40px;
+}
+
+.polyblock{
+    width: 390px;
+    height: 260px;
+    background-color: rgb(109, 205, 230);
+    border-radius: 70px;
+}
+
+.gl_t{
+    position: relative;
+    bottom: 70px;
+    left: 20px;
+    font-size: 80px;
+}
+
+.ob_t{
+    position: relative;
+    bottom: 80px;
+    left: 20px;
+    width: 280px;
+    font-size: 20px;
+}
+
+.block2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.text2{
+    font-size: 50px;
+}
+
+.rab{
+    width: 280px;
+    height: 350px;
+}
+
+.text3{
+    position: relative;
+    bottom: 20px;
+    font-size: 30px;
+}
+
+.text4{
+    width: 300px;
+    position: relative;
+    bottom: 20px;
+    font-size: 20px;
+}
+
+.komanda{
+    display: flex;
+    flex-direction: row;
+}
+
+.block3{
+    display: flex;
+    flex-direction: column;
+    height: 860px;
+}
+
+.polyblocki1{
+    display: flex;
+    padding: 10px;
+    gap: 10px;
+    border-radius: 40px;
+}
+
+.polyblock1{
+    width: 290px;
+    height: 380px;
+    background-color: rgb(109, 205, 230);
+    border-radius: 70px;
+}
+
+.gl_t1{
+    position: relative;
+    bottom: 10px;
+    left: 20px;
+    font-size: 35px;
+}
+
+.ob_t1{
+    position: relative;
+    bottom: 20px;
+    left: 20px;
+    width: 270px;
+    font-size: 25px;
+}
+
+.dl_block{
+    position: relative;
+    top: 50px;
+    left: 15px;
+    width: 880px;
+    height: 250px;
+    background-color: rgb(109, 205, 230);
+    border-radius: 70px;
+}
+
+.gl_t2{
+    position: relative;
+    bottom: 10px;
+    left: 20px;
+    font-size: 35px;
+}
+
+.ob_t2{
+    position: relative;
+    bottom: 20px;
+    left: 20px;
+    width: 500px;
+    font-size: 25px;
+}
+
+.PS{
+    width: 200px;
+    position: relative;
+    left: 600px;
+    bottom: 280px;
+    transform: rotate(20deg);
+}
+
+.block4{
+    display: flex;
+    flex-direction: column;
+    height: 1300px;
+}
+
+.A1{
+    position: relative;
+    width: 450px;
+    top: 132px;
+    left: 180px;
+    border-radius: 40px;
+}
+
+.A2{
+    position: relative;
+    width: 500px;
+    right: 660px;
+    bottom: 100px;
+    border-radius: 40px;
+}
+
+.A3{
+    position: relative;
+    width: 450px;
+    right: 140px;
+    bottom: 245px;
+    border-radius: 40px;
+}
+
+.A4{
+    position: relative;
+    width: 500px;
+    left: 650px;
+    bottom: 1250px;
+    border-radius: 40px;
+}
+
+.A5{
+    position: relative;
+    width: 300px;
+    bottom: 1800px;
+    right: 140px;
+    border-radius: 40px;
+}
+
+.A6{
+    position: relative;
+    bottom: 1610px;
+    width: 500px;
+    right: 660px;
+    border-radius: 40px;
+}
+
+.A7{
+    position: relative;
+    width: 500px;
+    left: 650px;
+    bottom: 1790px;
+    border-radius: 40px;
+}
+
+.A8{
+    position: relative;
+    width: 300px;
+    bottom: 2335px;
+    left: 330px;
+    border-radius: 40px;
+}
+
+.block5{
+    display: flex;
+    flex-direction: column;
+    width: 900px;
+    gap: 20px;
+}
+
+.polyblocki2{
+    display: flex;
+    gap: 20px;
+    border-radius: 40px;
+}
+
+.polyblock2{
+    width: 290px;
+    height: 360px;
+    background-color: rgb(109, 205, 230);
+    border-radius: 50px;
+}
+
+.polyblock2:hover{
+    background-color: rgb(185, 38, 190);
+}
+
+.gl_t3{
+    position: relative;
+    left: 15px;
+    top: 20px;
+    font-size: 30px;
+    
+}
+
+.ob_t3{
+    position: relative;
+    left: 15px;
+    top: 30px;
+    width: 300px;
+    font-size: 15px;
+    color:rgb(0, 0, 0, 0.5);
+}
+
+.kartinka{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 15px;
+    width: 260px;
+    border-radius: 50px;
+}
+
+.block6{
+    margin-top: 300px;
+    width: 920px;
+    height: 450px;
+    background-color: rgb(109, 205, 230);
+    border-radius: 50px;
+}
+
+.last{
+    margin-left: 40px;
+    font-size: 50px;
+    color: white;
+}
+
+.table{
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+    gap: 40px;
+    width: 40px;
+}
+
+.cube{
+    border-radius: 5px;
+    width: 16px;
+    height: 16px;
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.cube:hover{
+    background-color: green;
+}
+
+
+.cube_t{
+    color: white;
+    position: relative;
+    left: 70px;
+    bottom: 30px;
+    width: 200px;
+}
+
+.galka{
+    width: 16px;
+}
+
+.last_kn{
+    border-radius: 50px;
+    background-color: black;
+    margin-left: 40px;
+    width: 210px;
+    height: 70px;
+}
+
+.knopka_t{
+    font-size: 20px;
+    color: white;
+    position: relative;
+    left: 58px;
+    top: 22px;
+}
+
+.joy{
+    position: relative;
+    left: 500px;
+    bottom: 200px;
+    width: 350px;
+    transform: scale(-1, 1);
+}
+
+.flooter{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    position: relative;
+    gap: 250px;
+    top: 230px;
+    background-color: black;
+    height: 60px;
+    width: 100%;
+}
+
+.text_f{
+    color: white;
+}
